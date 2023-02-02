@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME_M>
+     <HASH_ID>36B04AE12E6B7D5893D24CD505CB14150B605AB8</HASH_ID>
+     <ID>&lt;type&gt; catalogProductAdditionalAttributesEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>catalogProductAdditionalAttributesEntity</IFR_NAME>
+     <IFR_NSPCE>http://tempuri.org/</IFR_NSPCE>
+     <IFR_GNSPCE>http://tempuri.org/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZPGO</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://tempuri.org/</X-ML_NSPCE>
+     <X-ML_NAME>catalogProductAdditionalAttributesEntity</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>MULTI_DATA</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>MULTI_DATA</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZPGOARRAY_OF_ASSOCIATIVE_MULTI</OBJ_NAME_R>
+     <ID>&lt;element&gt; {http://tempuri.org/}multi_data &lt;type&gt; catalogProductAdditionalAttributesEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>multi_data</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>MULTI_DATA</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>SINGLE_DATA</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>SINGLE_DATA</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZPGOARRAY_OF_ASSOCIATIVE_ENTIT</OBJ_NAME_R>
+     <ID>&lt;element&gt; {http://tempuri.org/}single_data &lt;type&gt; catalogProductAdditionalAttributesEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>single_data</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>SINGLE_DATA</R3_NAME>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZPGOCATALOG_PRODUCT_ADDITIONAL</OBJ_NAME2>
+     <ID>&lt;type&gt; catalogProductAdditionalAttributesEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>catalogProductAdditionalAttributesEntity</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZPGOCATALOG_PRODUCT_ADDITIONAL</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

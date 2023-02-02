@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME_M>
+     <HASH_ID>DDA66E2C18853A05C4EB350130CBED9D09A8ABA5</HASH_ID>
+     <ID>&lt;type&gt; catalogProductAttributeSetEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>catalogProductAttributeSetEntity</IFR_NAME>
+     <IFR_NSPCE>http://tempuri.org/</IFR_NSPCE>
+     <IFR_GNSPCE>http://tempuri.org/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZPGO</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://tempuri.org/</X-ML_NSPCE>
+     <X-ML_NAME>catalogProductAttributeSetEntity</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>NAME</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>NAME</OBJ_NAME2>
+     <ID>&lt;element&gt; {http://tempuri.org/}name &lt;type&gt; catalogProductAttributeSetEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>name</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>NAME</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000003</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>SET_ID</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>SET_ID</OBJ_NAME2>
+     <ID>&lt;element&gt; {http://tempuri.org/}set_id &lt;type&gt; catalogProductAttributeSetEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>set_id</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_XSDTYP>int</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>SET_ID</R3_NAME>
+     <R3_DATATYP>INT4</R3_DATATYP>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>SET_ID_SPECIFIED</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>SET_ID_SPECIFIED</OBJ_NAME2>
+     <ID>&lt;element&gt; {http://tempuri.org/}set_idSpecified &lt;type&gt; catalogProductAttributeSetEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>set_idSpecified</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_XSDTYP>boolean</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>SET_ID_SPECIFIED</R3_NAME>
+     <R3_DTREF>XSDBOOLEAN</R3_DTREF>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZPGOCATALOG_PRODUCT_ATTRIBUTE</OBJ_NAME2>
+     <ID>&lt;type&gt; catalogProductAttributeSetEntity http://tempuri.org/ http://tempuri.org/</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>catalogProductAttributeSetEntity</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZPGOCATALOG_PRODUCT_ATTRIBUTE</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
